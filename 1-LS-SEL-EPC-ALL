@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1B-EPC-LS-MTX/main/A-SEL-EPC-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/1-LS-SEL-EPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1B-EPC-LS-MTX/main/A1-FLM-EPC-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/A-LS-FLM-EPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/jhb8gt9/FLM-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/QXdxXCy/EPICOS-FAN.png</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS ESTÃO AQUI.
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1B-EPC-LS-MTX/main/B-COL-EPC-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/B-LS-COL-EPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/64MmJJ5/EPC-COL-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/QXdxXCy/EPICOS-FAN.png</fanart>
 <info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
@@ -39,8 +39,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/8z6Q9HV/EPC-SRS-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
+<info>PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink><LINKDAPAGEATUAL></externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/1-LS-SEL-EPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -49,8 +61,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DA CATEGORIA[/B][/COLOR]</name>
-<externallink><LINKDAPAGEANTERIOR></externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-FLMS-ALL/main/2-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -61,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -69,7 +81,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 
 
