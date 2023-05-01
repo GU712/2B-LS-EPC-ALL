@@ -27,6 +27,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>				
+<title>[COLOR white][B]Átila - O Huno (2001)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.tubemusic/?video_id=ZsjASW1e6Sg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Atila - O Huno[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Atila-O.Huno.2001.FHD.LFX%20.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Atila - O Huno - FHD LEG FIX[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Atila-O.Huno.2001.SD.dub.avi$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Atila - O Huno - SD DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/e8sSkLQ9CMH9nckLk5RSc0gxOfh.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/5ZLiwDymzKaNtLMOJCN2YkAE7E0.jpg</fanart>				
+<info>Duas perspectivas diferentes do destino, defendidas por dois homens mais poderosos do século... conflitos principais do Átila, o Huno.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>				
 <title>[COLOR white][B]A Águia da Legião Perdida (2011) [/B][/COLOR]</title>				
@@ -93,19 +104,18 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLO
 <genre>ÉPICOS</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Átila - O Huno (2001)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id=ZsjASW1e6Sg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Atila - O Huno[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Atila-O.Huno.2001.FHD.LFX%20.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Atila - O Huno - FHD LEG FIX[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Atila-O.Huno.2001.SD.dub.avi$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Atila - O Huno - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/e8sSkLQ9CMH9nckLk5RSc0gxOfh.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/5ZLiwDymzKaNtLMOJCN2YkAE7E0.jpg</fanart>				
-<info>Duas perspectivas diferentes do destino, defendidas por dois homens mais poderosos do século... conflitos principais do Átila, o Huno.</info>				
-<genre>ÉPICOS</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[COLOR white][B]A Última Legião (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=lFFq1-5cD6Y$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ultima Legiao[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-The.Last.Legion.2007.HD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ultima Legiao - FHD DUB+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/evV9atnKFEM0XmSHliGjbYyzzkY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tgaMo8q1HpGTbtpmJm8TYKTpOr4.jpg</fanart>
+<info>O fim de um império... o nascer de uma lenda.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+								
 <item>
 <title>[COLOR white][B]As Brumas de Avalon (2001)[/B][/COLOR]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=QOsR_yDdHxQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Brumas de Avalon[/B][/COLOR]</link>
@@ -175,7 +185,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre> 				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-								
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
