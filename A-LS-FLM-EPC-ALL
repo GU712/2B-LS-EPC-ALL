@@ -11,18 +11,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NUMERAL				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-<item>				
-<title>[COLOR white][B]10.000 A.C. (2008)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.tubemusic/?video_id==J73aDZuAx2I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]10.000 A.C.[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85a8be637b5e80ea7f7e411fe969af0fe1c80afc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]10.000 A.C. - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35056ed055e85a9aefab9a0a5de59d6f7938608d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]10.000 A.C. - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-10.000.A.C.2008.HD.DUB+LEG$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]10.000 A.C. - HD DUB[/B][/COLOR]</link>				
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]10.000 A.C. (2008) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-10.000.A.C.2008.FHD.DUAL+LEG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yS9WxbISOCzucj7484IohnrBr5b.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/ifDzpMogZmSjvqa8eMbRyiOcX5F.jpg</fanart>				
-<info>Uma aventura épica que segue o caçador de mamutes D'Leh , um jovem apaixonado por Evolet, em uma viagem de resgate . Quando um bando de perigosos guerreiros sequestra sua amada, D'Leh é obrigado a liderar um pequeno grupo de caçadores em uma expedição para resgatá-la.</info>				
-<genre>ÉPICOS</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://www.themoviedb.org/t/p/original/ifDzpMogZmSjvqa8eMbRyiOcX5F.jpg</fanart>	
+<info>[COLOR white]Assista aqui o filme: 
+[B]10.000 A.C.
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2008
+[COLOR orange]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma aventura épica que segue o caçador de mamutes D'Leh , um jovem apaixonado por Evolet, em uma viagem de resgate . Quando um bando de perigosos guerreiros sequestra sua amada, D'Leh é obrigado a liderar um pequeno grupo de caçadores em uma expedição para resgatá-la.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "A"				
@@ -599,7 +601,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/4zND2AidurOBHmWUnEkS1TPNzJF.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Ouro para os Imperadores
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO - 1963
 [COLOR orange]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um arquiteto escravo da Gália é ordenado por um governador romano a liderar uma expedição, constantemente sob o risco de ataque dos guerreiros celtas, ao Vale do Sil para encontrar o ouro necessário para Roma.
