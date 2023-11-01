@@ -19,8 +19,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]10.000 A.C.
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2008
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma aventura épica que segue o caçador de mamutes D'Leh , um jovem apaixonado por Evolet, em uma viagem de resgate . Quando um bando de perigosos guerreiros sequestra sua amada, D'Leh é obrigado a liderar um pequeno grupo de caçadores em uma expedição para resgatá-la.
 [/COLOR]</info>
 </item>
@@ -29,17 +29,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-			
+
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Águia da Legião Perdida (2011) - FHD DUAL+LEG[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Aguia.da.Legiao.Perdida.2011.HD.DUB+LEG.mkv</link>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Águia da Legião Perdida V.E. (2011) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-A.Aguia.da.Legiao.Perdida.2011.FUH.DUAL+LEG-LS.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jJ52P7T6SW9DZCveZJll0XcVxeb.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/pWx3iY7ideuo5G3wj21GqRyWvxL.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Águia da Legião Perdida
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2011
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após o desaparecimento da legião de seu pai, um jovem centurião tenta solucionar o mistério. Acompanhado do escravo Esca, ele enfrenta tribos selvagens para encontrar a águia de ouro, símbolo daquele exército.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Águia da Legião Perdida (2011) - HD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Aguia.da.Legiao.Perdida.2011.HD.DUB+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jJ52P7T6SW9DZCveZJll0XcVxeb.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/pWx3iY7ideuo5G3wj21GqRyWvxL.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Águia da Legião Perdida
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após o desaparecimento da legião de seu pai, um jovem centurião tenta solucionar o mistério. Acompanhado do escravo Esca, ele enfrenta tribos selvagens para encontrar a águia de ouro, símbolo daquele exército.
 [/COLOR]</info>
 </item>
@@ -53,8 +68,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]À Espera dos Bárbaros
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEGFIX
-[COLOR orange]ANO - 2020
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma pequena província ocidental do Reino Unido vive um magistrado muito dedicado ao seu trabalho. No entanto, quando o Coronel Joll, famoso por seus "interrogatórios" e torturas, chega da capital para investigar os bárbaros.
 [/COLOR]</info>
 </item>
@@ -68,8 +83,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Odisséia
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1997
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa.
 [/COLOR]</info>
 </item>
@@ -83,8 +98,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Queda do Império Romano
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1964
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No auge da expansão geográfica do império romano, o general Lívio comanda a política do imperador Marco Aurélio, que quer a pacificação de fronteiras
 [/COLOR]</info>
 </item>
@@ -98,8 +113,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Ressurreição de Jesus
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO - 2022
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os seguidores de Jesus são caçados, sem liderança e procurando desesperadamente por compreensão, mas quando Jesus ressuscita da morte, eles percebem que a esperança não morreu na cruz.
 [/COLOR]</info>
 </item>
@@ -113,8 +128,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Última Legião
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 2007
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2007
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O fim de um império... o nascer de uma lenda.
 [/COLOR]</info>
 </item>
@@ -128,8 +143,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Alexandre
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 2004
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2004
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conquistando 90 por cento do mundo até os 25 anos de idade, Alexandre, o Grande liderou seu exército por 35.000 km em ataques e conquistas em apenas oito anos. 
 [/COLOR]</info>
 </item>
@@ -143,8 +158,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Apocalypto
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD MAIA+LEG
-[COLOR orange]ANO - 2006
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2006
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ninguém pode fugir do seu próprio destino.
 [/COLOR]</info>
 </item>
@@ -159,8 +174,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Átila - O Huno
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG FIX - SD DUB
-[COLOR orange]ANO - 2001
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2001
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Duas perspectivas diferentes do destino, defendidas por dois homens mais poderosos do século... conflitos principais do Átila, o Huno.
 [/COLOR]</info>
 </item>
@@ -174,8 +189,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]As Brumas de Avalon
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 2001
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2001
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma sacerdotisa prepara o nascimento de Arthur, que viria a se tornar rei para comandar a Bretanha e salvar Avalon.
 [/COLOR]</info>
 </item>
@@ -197,8 +212,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Cartago em Chamas
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1960
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Roma e Cartago estão em conflito. Navios de guerra são enviando para a batalha sobre o controle de Cartago.
 [/COLOR]</info>
 </item>
@@ -213,8 +228,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Centurião
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 2010
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Império Romano controla do Egito à Espanha, do leste até o Mar Negro. Entretanto ele enfrenta problemas no norte da Grã-Bretanha, devido às táticas de guerrilha usadas por seus inimigos.
 [/COLOR]</info>
 </item>
@@ -228,8 +243,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Cleópatra
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1963
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cleópatra, rainha do Egito, sua luta para defender o império das ambições políticas e territoriais de Roma e seu relacionamento com Júlio César e Marco Antônio.
 [/COLOR]</info>
 </item>
@@ -243,8 +258,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Coração Valente
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1995
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1995
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]William Wallace, lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.
 [/COLOR]</info>
 </item>
@@ -258,8 +273,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Cruzada
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2005
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Balian é um jovem ferreiro francês, que guarda luto pela morte de sua esposa e filho. Ele recebe a visita de Godfrey de Ibelin , seu pai, que é também um conceituado barão do rei de Jerusalém e dedica sua vida a manter a paz na Terra Santa.
 [/COLOR]</info>
 </item>
@@ -277,8 +292,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Dança com Lobos
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1990
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No período da Guerra Civil Americana, o jovem militar John Dunbar cria uma estratégia não violenta de aproximação com índios Sioux. Os indígenas, que acham curiosa a amizade de Dunbar com um lobo, passam a conviver de forma afetuosa com o tenente.
 [/COLOR]</info>
 </item>
@@ -292,8 +307,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Doutor Jivago
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1965
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conheça a história do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor impossível que move toda a história.
 [/COLOR]</info>
 </item>
@@ -311,8 +326,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]El Cid
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1961
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Rodrigo Diaz, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.
 [/COLOR]</info>
 </item>
@@ -326,8 +341,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Excalibur, a Espada do Poder
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO - 1981
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma emboscada Uther é ferido mortalmente e, pouco antes de morrer, enterra a espada em uma pedra. Fica então decidido que o cavaleiro que puder retirá-la da pedra será o novo rei.
 [/COLOR]</info>
 </item>
@@ -346,8 +361,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Falcão dos Mares
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB - HD LEG FIX
-[COLOR orange]ANO - 1951
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1951
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1807, o Capt. Hornblower da marinha britânica é enviado em uma missão secreta para desviar aliados espanhóis de Napoleão.
 [/COLOR]</info>
 </item>
@@ -365,8 +380,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Gladiador
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2000
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida.
 [/COLOR]</info>
 </item>
@@ -380,8 +395,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Guerra e Paz
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1966
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cada vez mais próximas da russIa, as tropas de Napoleão Bonaparte prometem fazer valer os intentos expansionistas de seu líder, trazendo guerra para o solo russo.
 [/COLOR]</info>
 </item>
@@ -399,8 +414,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Hair
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1979
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]"Hair" é uma adaptação cômico-dramática-musical do musical da Broadway de 1968 "Hair: An American Tribal Love-Rock Musical".
 [/COLOR]</info>
 </item>
@@ -414,8 +429,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Hercules
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2014
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Hércules anda atormentado pela terra. Depois de doze árduos trabalhos realizados e a perda de sua família, ele conhece seis assassinos impiedosos e une-se ao grupo em busca de trabalho.
 [/COLOR]</info>
 </item>
@@ -437,8 +452,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Jasão e o Velo de Ouro
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1963
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Para reconquistar seu trono. Jasão lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.
 [/COLOR]</info>
 </item>
@@ -452,8 +467,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Júlio César
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUAL+LEG
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Roma, César é assassinado, pois os senadores alegam que sua ambição o transformaria em um tirano.
 [/COLOR]</info>
 </item>
@@ -471,8 +486,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Khartoum
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1966
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dizem que o Nilo ainda corre vermelho da Batalha de Khartoum!
 [/COLOR]</info>
 </item>
@@ -490,8 +505,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Lawrence da Arábia
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O oficial britânico T.E. Lawrence é enviado à Arábia para encontrar o príncipe Faisal e servir de ligação entre árabes e ingleses na luta contra os turcos.
 [/COLOR]</info>
 </item>
@@ -505,8 +520,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Legionário
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1998
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jurado de morte e perseguido pelos mafiosos mais perigosos da Europa, ele só vê uma saída: alistar-se na Legião Estrangeira e fugir para o Norte da África. 
 [/COLOR]</info>
 </item>
@@ -520,8 +535,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Legítimo Rei
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2018
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Coroado Rei dos Escoceses, o lendário Robert "The Bruce" luta para tentar recuperar o controle. Mas, acaba sendo derrotado em um ataque surpresa feito pelo rei inglês, o que o deixou um fora-da-lei.
 [/COLOR]</info>
 </item>
@@ -539,8 +554,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Marchar ou Morrer
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1977
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um major da Legião estrangeira é designado para proteger um grupo de arqueologistas.
 [/COLOR]</info>
 </item>
@@ -562,8 +577,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Cálice Sagrado
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUB
-[COLOR orange]ANO - 1954
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um artesão grego é encarregado de moldar a taça de Cristo em prata e esculpir em torno de sua borda os rostos dos discípulos e do próprio Jesus. Ele viaja para Jerusalém e, eventualmente, para Roma para completar a tarefa.
 [/COLOR]</info>
 </item>
@@ -577,8 +592,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Colosso de Rodes
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1961
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Darios, um herói militar grego, está visitando seu tio em Rodes que acabou de construir um enorme Colosso em homenagem a Apolo, Por acidente, Darios se envolve com rebeldes que querem tirar o rei Xerxes do poder.
 [/COLOR]</info>
 </item>
@@ -592,8 +607,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Egípcio 
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1954
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Egito antigo, Sinhue, um órfão pobre, se torna um médico brilhante e é indicado para servir o novo faraó. Conforme Sinhue descobre as intrigas e segredos da corte da turbulenta 18a. dinastia, ele tem as respostas que procurava há muitos anos.
 [/COLOR]</info>
 </item>
@@ -608,8 +623,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Homem da Máscara de Ferro
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO - 1977
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Aventura Clássica de Heroísmo, Traição e Triunfo.
 [/COLOR]</info>
 </item>
@@ -623,8 +638,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Homem do Norte
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2022
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Homem do Norte segue uma história de vingança e loucura de um príncipe.
 [/COLOR]</info>
 </item>
@@ -638,8 +653,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Legionário
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 2020
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Noreno, um soldado meio-romano, é encarregado da missão perigosa de atravessar as montanhas nevadas da Armênia, repleto de patrulhas espartanas, para procurar ajuda para seus homens que estão morrendo lentamente.
 [/COLOR]</info>
 </item>
@@ -653,8 +668,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Patriota
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 2000
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.
 [/COLOR]</info>
 </item>
@@ -668,8 +683,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Último dos Moicanos V.E.
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1992
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No período colonial, durante a guerra entre Inglaterra e França, um homem criado por índios luta pela justiça e segue os valores moicanos. Ele se apaixona por Cora Munro, a filha de um oficial britânico e deve enfrentar uma dura missão.
 [/COLOR]</info>
 </item>
@@ -683,8 +698,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Último dos Moicanos V.E.
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1992
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No período colonial, durante a guerra entre Inglaterra e França, um homem criado por índios luta pela justiça e segue os valores moicanos. Ele se apaixona por Cora Munro, a filha de um oficial britânico e deve enfrentar uma dura missão.
 [/COLOR]</info>
 </item>
@@ -698,8 +713,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Último Samurai
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 2003
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai.
 [/COLOR]</info>
 </item>
@@ -713,8 +728,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Ouro para os Imperadores
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1963
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um arquiteto escravo da Gália é ordenado por um governador romano a liderar uma expedição, constantemente sob o risco de ataque dos guerreiros celtas, ao Vale do Sil para encontrar o ouro necessário para Roma.
 [/COLOR]</info>
 </item>
@@ -728,8 +743,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os 300 de Esparta
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos.
 [/COLOR]</info>
 </item>
@@ -743,8 +758,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Cavaleiros da Távola Redonda
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O recém coroado rei da Inglaterra, Arthur Pendragon dedica seu reinado e a irmandade dos Cavaleiros da Távola Redonda aos ideais de paz e justiça. 
 [/COLOR]</info>
 </item>
@@ -758,8 +773,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Dez Mandamentos
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 1956
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1956
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A épica vida de Moisés , desde quando foi colocado nas águas em um cesto e foi adotado por uma princesa egípcia, até quando descobre sua real condição e decide liderar seu povo que, escravizado pelos egípcios, anseia pela liberdade.
 [/COLOR]</info>
 </item>
@@ -773,8 +788,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Duelistas
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG FIX
-[COLOR orange]ANO - 1977
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dois oficiais do exército de Napoleão, que se enfrentam violentamente numa série de duelos. Os duelos começam por causa de um incidente insignificante e se tornaram ferozmente compulsivos, passando a reger a vida dos dois homens, durante 15 anos.
 [/COLOR]</info>
 </item>
@@ -788,8 +803,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Os Inconquistáveis
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1947
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1947
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na colônia da Virgínia, os habitantes começam a ouvir e temer o canto ameaçador dos ameaçadores tambores de guerra que ecoam no vale selvagem do rio Ohio.
 [/COLOR]</info>
 </item>
@@ -807,8 +822,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]<NOMEDOFILME>
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 0000
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]0000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nossa história é sobre Pink, um astro do rock and roll que se senta trancado em um quarto de hotel, em algum lugar em Los Angeles. Muitos shows, muitas drogas, muito aplauso: um caso perdido.
 [/COLOR]</info>
 </item>
@@ -828,8 +843,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Quo Vadis
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD DUB DUAL LEG
-[COLOR orange]ANO - 1951
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1951
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As atrocidades de Nero são cada vez mais ultrajantes e, quando ele queima Roma e culpa os cristãos, Marcus salva Lygia e a família dela. Nero captura todos os cristãos e os atira aos leões mas, no final, Marcus, Lygia e o cristianismo prevalecerão.
 [/COLOR]</info>
 </item>
@@ -847,8 +862,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Rebelião na Índia
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1953
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Históra passada no século 19, na Índia, sobre o capitão Alan King, oficial britânico de origem hindu que luta contra o preconceito no exército
 [/COLOR]</info>
 </item>
@@ -862,8 +877,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Rei Arthur
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 2004
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2004
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Arthur é um oficial de Roma defendendo a Muralha Hadrian contra os pictos. Ele e seus homens são enviados em uma missão perigosa para resgatar uma família romana, durante uma invasão dos saxões.
 [/COLOR]</info>
 </item>
@@ -877,8 +892,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Rei Arthur: A Lenda da Espada
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2017
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern.
 [/COLOR]</info>
 </item>
@@ -892,8 +907,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Reis do Sol
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1963
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1963
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles constroem uma casa na nova terra, mas entram em conflito com uma tribo de nativos americanos liderada por seu chefe, Águia Negra, enquanto Balam e Águia Negra se apaixonam pela bela princesa maia Ixchel.
 [/COLOR]</info>
 </item>
@@ -907,8 +922,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Robin Hood
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2010
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na Inglaterra do século 12, Robin Hood é um hábil arqueiro que fazia parte do exército. Com a morte do rei, ele vai para Nottingham, que está dominada por um xerife corrupto. Lá, ele se apaixona pela viúva Lady Marion e tentará fazer justiça roubando dos ricos e dando aos pobres.
 [/COLOR]</info>
 </item>
@@ -922,8 +937,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Robin Hood: O Príncipe dos Ladrões
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB
-[COLOR orange]ANO - 1991
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1991
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O lendário arqueiro fica sabendo que seu pai foi assassinado pelo xerife de Nottingham e, com a ajuda de um bando de ladrões da Floresta de Sherwood, inicia uma campanha de guerrilha para combater a tirania e proteger o trono do rei.
 [/COLOR]</info>
 </item>
@@ -956,8 +971,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Sansão e Dalila
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB+LEG
-[COLOR orange]ANO - 1949
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1949
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sansão, se apaixona por Semadar, o que leva a uma guerra entre os dois povos. Na briga, Semadar acaba morta e sua irmã Dalila, jura vingança.
 [/COLOR]</info>
 </item>
@@ -975,8 +990,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Taras Bulba
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD LEG
-[COLOR orange]ANO - 1962
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ucrânia, século 16 ,um confronto entre o amor, a honra da família, e uma luta pela identidade nacional.
 [/COLOR]</info>
 </item>
@@ -990,8 +1005,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Tempo de Glória
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1989
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante a Guerra Civil americana, Robert Gould Shaw, um jovem sem experiência, recebe o comando do primeiro batalhão composto por soldados negros.
 [/COLOR]</info>
 </item>
@@ -1005,8 +1020,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Terra dos Faraós
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1955
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1955
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No antigo Egito um faraó, ao retornar de uma campanha vitoriosa, decide construir uma pirâmide, onde será enterrado juntamente com seu tesouro, que espera desfrutar em uma segunda vida. 
 [/COLOR]</info>
 </item>
@@ -1020,8 +1035,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Tróia
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2004
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2004
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Páris, o príncipe de Troia, se apaixona por Helena, rainha de Esparta, isso inicia uma guerra de anos entre os dois reinos. Para vencer, Esparta conta com Aquiles, um guerreiro lendário.
 [/COLOR]</info>
 </item>
@@ -1039,8 +1054,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Ulysses
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD LEG
-[COLOR orange]ANO - 1954
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ulysses realiza, após 10 anos de guerra na batalha por Tróia, a uma jornada por terra e mar para tentar voltar para casa, em Ítaca, e para sua esposa Penélope
 [/COLOR]</info>
 </item>
@@ -1058,8 +1073,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Vikings, Os Conquistadores
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUB+LEG
-[COLOR orange]ANO - 1958
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1958
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Einar e Eric são meio-irmãos, um é o príncipe e herdeiro do trono inglês; o outro é o filho bastardo de um selvagem viking. Até que em um ataque surpresa, os Vikings sequestram a princesa Morgana, o que faz Einar e Eric tentarem recuperá-la.
 [/COLOR]</info>
 </item>
@@ -1087,8 +1102,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Waterloo - A Batalha de Napoleão
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD HD DUB DUAL+LEG
-[COLOR orange]ANO - 1970
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Épico histórico que conta a saga de Napoleão, na batalha de Waterloo.
 [/COLOR]</info>
 </item>
@@ -1106,8 +1121,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o filme: 
 [B]Zulu
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1964
-[COLOR orange]ÉPICOS
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.
 [/COLOR]</info>
 </item>
