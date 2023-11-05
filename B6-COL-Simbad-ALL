@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/ryjNFCcwvjnTGfMuYmDJUpb7DNP.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Filho de Sinbad
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1955
-[COLOR orange]ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1955
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O lendário pirata e aventureiro Sinbad está em busca obstinada de duas coisas: mulheres bonitas e uma substância chamada Fogo Grego – uma versão inicial da pólvora.
 [/COLOR]</info>
 </item>
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/7SpPegB2KUrFdudZgv7Ppl8FRGH.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Simbad e a Princesa
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1958
-[COLOR orange]ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1958
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o lendário Simbad sai numa perigosa jornada para a misteriosa Ilha de Colossus, ele se envolve em uma incrível e movimentada aventura.
 [/COLOR]</info>
 </item>
@@ -45,8 +45,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/42NizCD7F2b8tfcLzK3NyDWz6YM.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Captain Sindbad
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUAL+LEG
-[COLOR orange]ANO - 1963
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1963
 [COLOR orange]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cimitarras brilham... chamas perigosas... enquanto o herói mais poderoso da aventura ousa sua maior conquista!
 [/COLOR]</info>
@@ -60,9 +60,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/5o35B9qjLHLoQ8knvriqZO96QTw.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]As Novas Viagens de Simbad
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1973
-[COLOR orange]ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Esta é uma espetacular aventura passada nas misteriosas terras antigas, habitadas por incríveis criaturas! 
 [/COLOR]</info>
 </item>
@@ -75,9 +75,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/dAS0FInfgpqzpG8KXzJ3pX4lc7A.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Simbad Contra o Olho do Tigre
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1977
-[COLOR orange]ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Simbad, corajoso marinheiro e Príncipe de Bagdá, sai em direção a Charnak com intenção de pedir ao Príncipe Kassim para se casar com sua irmã, Farah.
 [/COLOR]</info>
 </item>
@@ -90,14 +90,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/vhf4YdpufrB1OtNKxBWWwTTb92i.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Sinbad e os Sete Mares
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1989
-[COLOR orange]ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sinbad e sua tripulação voltam a Bagdá e descobrem que o terrível Jaffar assumiu o controle do reino após enfeitiçar o sultão. 
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -119,7 +120,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -127,6 +127,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 
