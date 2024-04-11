@@ -1,432 +1,79 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bárbaros (2020-2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C7-SRS-Barbarians-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/r3cUaeLUGT8c0YIR8qCDDH2iJSU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2xp1uTv9fbUJxDl6esAIBHnAvkC.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Bárbaros
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020 a 2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 12 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 9 D.C., os destinos de três pessoas se cruzam na Batalha da Floresta de Teutoburgo, quando os guerreiros germânicos impedem o avanço do Império Romano.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Black Sails (2014-2017) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C8-SRS-Black.Sails-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/l2bWARnuPScUBZtiuqbrqF9vxgS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tbauhHm0WW8wCBqhhJWXYDZDMeQ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Black Sails
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2017
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A população da ilha tomada pelo Capitão Flint e seus piratas pode não ser a mais exemplar, mas ai daquele que tentar invadi-la.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]El Cid (2020-2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C6-SRS-El.Cid-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jTDpdYASFxX45GWkGPHmS74BNvz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ql3PW2OzWuoHuSiF7Xk1qRDKvxi.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]El Cid
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Lá pelo ano 1000, a Espanha é dominada pelos mouros, e a esperança está toda com El Cid. Um cavaleiro heroico e nobre espanhol que sabe que uma nação dividida não pode vencer e que a luta não é só contra os invasores, mas também para unir seu povo.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hernán - O Grande Conquistador Espanhol (2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C11-SRS-Hernan.Cortes.2019-ALL</externallink>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2019) 08 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Hernán - O Grande Conquistador Espanhol
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história por trás da conquista do México, em 1519. Quando Hernán Cortés, um diplomata habilidoso, com ambiguidade moral e gênio militar, chega ao país, as culturas contrastantes dos colonizados e do colonizador entram em choque.
-[/COLOR]</info>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Marina[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Olid[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Xicoténcatl[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Bernal[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Moctezuma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Pedro de Alvarado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Gonzalo de Sandoval[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Hernan[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/2-EPC/Hernan.Cortes.2019/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Poldark: Herói de Guerra (2015-2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C4-SRS-Poldark-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kTdgkqSM5E6FDl94KVmC0iAoyKy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1uuFYYFcE63Yh5KAUNnl8xOmO39.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Poldark: Herói de Guerra
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 43  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No final do século XVIII, Ross Poldark retorna às suas minas de estanho da Cornualha, depois de passar três anos no exército para evitar acusações de contrabando, deixando para trás sua namorada, Elizabeth. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roma (2005-2007)- COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C1-SRS-Roma-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/sdyha7rMq1iNy6c3OT85zDkwIUg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/arfNOCoDR4EVOcAD0T6rpdac9lu.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Roma
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2007
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatrocentos anos depois da fundação da república na principal metrópole mundial da época, marcada por rivalidades, traições e guerras. Os episódios da primeira temporada mostram desde a vitória de Júlio César na batalha de Alésia até seu assassinato por conspiradores do Senado por causa de medidas populistas.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Spartacus (2010-2013) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C10-SRS-Spartacus-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dWgKZbTTYalQFEYJPLPWZlPt1mb.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Spartacus
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010 a 2013
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 39 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. Mas nem todas as batalhas são lutadas sobre a areia. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Chosen: Os Escolhidos (2019-2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C3-SRS-The.Chosen-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/wbCBwxwdXQam3e31e5F42IGxF99.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/74CaT8etPTtBPtuMbrqpNBDXBXA.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Chosen: Os Escolhidos
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 24 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A série presenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vikings (2013-2020) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C2-SRS-Vikings-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/u3oInkxcnNV2pZQbkFY3ovHYExR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AaJupnKCty81qRmzEVq2Fx3qEZs.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Vikings
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 79 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vikings: Valhalla (2022-2023) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C5-SRS-Vikings.Valhalla-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j9diuBBZlPS8VLc7oLlfDsNRD1N.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Vikings: Valhalla
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022 a 2023
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 16 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Washington (2020) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C9-SRS-Washington-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Washington
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 03 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Como um sujeito britânico outrora leal se levanta para combater um império em uma campanha de liberdade ou morte para criar uma nova nação.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-
-
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO GÊNERO ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/1-LS-SEL-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
