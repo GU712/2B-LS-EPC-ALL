@@ -30,7 +30,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/82f4BFd/EPICOS-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/HqprsGD/EPICOS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES DE ÉPICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que apresenta narrativas heroicas ou históricas que envolve personagens divinos ou reais como figura central em feitos extraordinários.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]COLEÇÕES DE FILMES ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/B-LS-COL-EPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/NThmvpT/EPICOS-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/HqprsGD/EPICOS-FAN-ALL.png</fanart>
@@ -48,14 +66,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/82f4BFd/EPICOS-SRS-ALL.png</thumbnail>
+<name>[COLOR white][B]FILMES ÉPICOS SPAGHETTI[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/D01-COL-Peplum-ALL</externallink>
+<thumbnail>https://i.ibb.co/NThmvpT/EPICOS-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/HqprsGD/EPICOS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE ÉPICOS
+<info>[COLOR white]Seção do gênero: 
+[B]FILMES ÉPICOS SPAGHETTI
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que apresenta narrativas heroicas ou históricas que envolve personagens divinos ou reais como figura central em feitos extraordinários.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Peplum é um subgênero de filme épico originário da Itália. Também é referido como espada e sandália ou filme de sandália.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
