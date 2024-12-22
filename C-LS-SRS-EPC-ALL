@@ -133,8 +133,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hernán - O Grande Conquistador Espanhol (2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C11-SRS-Hernan.Cortes.2019-ALL</externallink>
+<name>[COLOR white][B]Hernán - O Grande Conquistador Espanhol (2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C011-SRS-Hernan.Cortes.2019-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -143,7 +143,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história por trás da conquista do México, em 1519. Quando Hernán Cortés, um diplomata habilidoso, com ambiguidade moral e gênio militar, chega ao país, as culturas contrastantes dos colonizados e do colonizador entram em choque.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história por trás da conquista do México, em 1519. Quando Hernán Cortés,
+com ambiguidade moral e gênio militar,chega ao país,as culturas contrastantes dos colonizados e do colonizador entram em choque.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
