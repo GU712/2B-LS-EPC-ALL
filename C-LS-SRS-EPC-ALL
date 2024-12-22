@@ -69,8 +69,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Boundless (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C12-SRS-Boundless.2022-ALL</externallink>
+<name>[COLOR white][B]Boundless (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C012-SRS-Boundless.2022-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/6Na0ORrO7nrxYzYcfw83Xn2aYTg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fwpjFZLMMH03m1xfzsyZDtWeIFm.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -79,7 +79,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Primeira Circunvalação ao Redor do Mundo, acompanhando a viagem de 1519–22 iniciada por Fernão de Magalhães e culminada por Juan Sebastián Elcano.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A Primeira Circunvalação ao Redor do Mundo, acompanhando a viagem de 1519–22 
+iniciada por Fernão de Magalhães e culminada por Juan Sebastián Elcano.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -143,7 +147,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história por trás da conquista do México, em 1519. Quando Hernán Cortés,
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A conquista do México, em 1519. Quando Hernán Cortés,
 com ambiguidade moral e gênio militar,chega ao país,as culturas contrastantes dos colonizados e do colonizador entram em choque.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
