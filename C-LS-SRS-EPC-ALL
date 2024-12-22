@@ -1,42 +1,91 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A20-SEL-SRS-LETRA-S-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
-<info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>				
 </channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+</channels>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Bárbaros (2020-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C007-SRS-Barbarians.2020-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/r3cUaeLUGT8c0YIR8qCDDH2iJSU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2xp1uTv9fbUJxDl6esAIBHnAvkC.jpg</fanart>
+<name>[COLOR white][B]Sangue, Suor e Lágrimas (1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C013-SRS-Sangue.Suor.Lagrimas.1983-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/fsGLuaGM3sWusRtP8WI7m87i5B0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h064s2adGPLxVaPNYbjgyvUwnFd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Bárbaros
+[B]Sangue, Suor e Lágrimas
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020 a 2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 12 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em 9 D.C., os destinos de três pessoas se cruzam na Batalha da Floresta de Teutoburgo, 
-quando os guerreiros germânicos impedem o avanço do Império Romano.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 07 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tendo como pano de fundo os eventos mundiais que levaram ao ataque japonês a 
+Pearl Harbor em 1941, Victor “Pug” Henry é um oficial naval de carreira aprende a navegar nas águas de seus tempos perigosos.
+[COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sai de Baixo (1996-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C35-SRS-Sai.de.Baixo-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3w11talcPZHoO20cvDjYGU0ExVK.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sai de Baixo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 246 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um apartamento no Largo do Arouche é o cenário para as confusões de uma divertida família!
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sintonia (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C1-SRS-Sintonia-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sintonia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 A 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos 
+rodeados por música, drogas e religião.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sítio do Picapau Amarelo - Ano 2 (1978) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D06-SEL-Sitio.do.Pic.Amar-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/cmNM6ZengfCUr2pPj1n8cjQhbQD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dZ7cfEmjITHm8LpmApaubWG8Tzd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sítio do Picapau Amarelo - Ano 2
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 180 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A 2ª temporada de Sítio do Picapau Amarelo começou a ser exibida em 6 de março de 1978.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -47,70 +96,78 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Black Sails (2014-2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C008-SRS-Black.Sails.2014-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/l2bWARnuPScUBZtiuqbrqF9vxgS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tbauhHm0WW8wCBqhhJWXYDZDMeQ.jpg</fanart>
+<name>[COLOR white][B]Shantaram (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C9-SRS-Shantaram-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Black Sails
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2017
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A população da ilha tomada pelo Capitão Flint e seus piratas pode não ser a mais exemplar, 
-mas ai daquele que tentar invadi-la.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Boundless (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C12-SRS-Boundless.2022-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/6Na0ORrO7nrxYzYcfw83Xn2aYTg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fwpjFZLMMH03m1xfzsyZDtWeIFm.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Boundless 
+[B]Shantaram
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Primeira Circunvalação ao Redor do Mundo, acompanhando a viagem de 1519–22 iniciada por Fernão de Magalhães e culminada por Juan Sebastián Elcano.
-[/COLOR]</info>
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 11 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer. 
+Trabalhando como médico para os pobres e negligenciados da cidade, Lin encontra amor inesperado, laços e coragem no caminho para a redenção.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Shaun Carneiro (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D02B-SRS-Shaun.Carneiro-ALL</externallink>
+<thumbnail>https://i.ibb.co/7QWkbjG/COL-SHAUN-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/Xp4DZmG/COL-SHAUN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Shaun Carneiro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <channels>
 <channel>
-<name>[COLOR white][B]El Cid (2020-2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C006-SRS-El.Cid.2020-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jTDpdYASFxX45GWkGPHmS74BNvz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ql3PW2OzWuoHuSiF7Xk1qRDKvxi.jpg</fanart>
+<name>[COLOR white][B]Shazam! - Capitão Marvel (1981) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C9-SRS-Cap.Marvel.Shazan-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/rxeXd7ZoCisy42S7IcZ6sgyNrSB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3eJmOPPRm0HKc4EFCNY2ernRN8L.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]El Cid
+[B]Shazam! - Capitão Marvel
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Capitão Marvel é o alter ego de Billy Batson, um jovem que trabalha como repórter e foi 
+escolhido para ser um campeão da bondade pelo mago Shazam.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Smallville: As Aventuras do Superboy (2001-2010) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D06B2-SRS-Smallville.2001-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gRhEQqSh0IfxA6Wmd1OTb5vRSHf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Smallville: As Aventuras do Superboy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A Espanha é dominada pelos mouros, e a esperança está toda com El Cid. 
-Um cavaleiro heroico e nobre espanhol que sabe que uma nação dividida não pode vencer e que a luta não é só contra os invasores.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 217 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Antes da vida como Super-Homem, o jovem Clark Kent encara os problemas da adolescência 
+enquanto aprende a controlar seus poderes e usá-los para proteger a cidade de Smallville.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -119,129 +176,73 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hernán - O Grande Conquistador Espanhol (2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C11-SRS-Hernan.Cortes.2019-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/adJ2jnpz77ai4coQqNzzBQ0OiXN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/aEiVsSTYfZBXBxGnZd58Wx4DIy6.jpg</fanart>
+<name>[COLOR white][B]Sob Nova Direção (2004-2007) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C51-COL-Sob.Nova.Diresao.2004-SL4-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pmimYoj9cTqG1fhjoytTPtDC2oY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lNJT83L36hhwoGRQt22iDvgQ6cJ.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Hernán - O Grande Conquistador Espanhol
+[B]Sob Nova Direção
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história por trás da conquista do México, em 1519. Quando Hernán Cortés, um diplomata habilidoso, com ambiguidade moral e gênio militar, chega ao país, as culturas contrastantes dos colonizados e do colonizador entram em choque.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR white][B]Poldark: Herói de Guerra (2015-2019) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C004-SRS-Poldark.2015-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kTdgkqSM5E6FDl94KVmC0iAoyKy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1uuFYYFcE63Yh5KAUNnl8xOmO39.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Poldark: Herói de Guerra
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 43  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No final do século XVIII, Ross Poldark retorna às suas minas de estanho da Cornualha, 
-depois de passar três anos no exército para evitar acusações de contrabando, deixando para trás sua namorada, Elizabeth. 
-[/B][COLOR black].[/COLOR]
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2007
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 124 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As confusões das amigas Pit e Belinha, donas de um bar no subúrbio do Rio. Elas contam 
+com a ajuda dos funcionários Franco e Moreno e do cliente Horácio.
+[COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <channels>
 <channel>
-<name>[COLOR white][B]Roma (2005-2007)- COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C001-SRS-Roma.2005-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/sdyha7rMq1iNy6c3OT85zDkwIUg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/arfNOCoDR4EVOcAD0T6rpdac9lu.jpg</fanart>
+<name>[COLOR white][B]Sobrenatural (2005-2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C14-SRS-Sobrenatural-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Roma
+[B]Sobrenatural
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2007
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quatrocentos anos depois da fundação da república na principal metrópole mundial da época, 
-marcada por rivalidades, traições e guerras.
-[/B][COLOR black].[/COLOR]
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]15 TEMPs - 327 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com 
+demônios, fantasmas e monstros no caminho.
+[COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Spartacus (2010-2013) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C10-SRS-Spartacus-ALL</externallink>
+<name>[COLOR white][B]Sozinhos: Sobrevivência Animal (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C4-SRS-Sozinhos.Sobrev.Animal.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/289imAZhMXP5YNWtn0cv8OBEhtq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/b0J4gDUCe9q9kzLEUdlHg6fekne.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sozinhos: Sobrevivência Animal
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Três completos estranhos tentam sobreviver no Ártico, sem nenhum equipamento ou ferramenta,
+ durante 30 dias, em condições adversas. O único recurso disponível é um animal abatido.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Spartacus (2010-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C010-SRS-Spartacus.2010-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dWgKZbTTYalQFEYJPLPWZlPt1mb.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -250,60 +251,70 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010 a 2013
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 39 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. Mas nem todas as batalhas são lutadas sobre a areia. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é 
+condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][B]Starman (1986) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D08-SEL-Starman-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/4fKXWIiaLTQDvOS5Ok4XfD5qKJb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fbLov6CTHvBUnvHrPCHpLpyFdui.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Starman
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 021 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Starman é uma série de televisão americana de ficção científica estrelada por Robert Hays 
+e Christopher Daniel Barnes que continua a história do filme de 1984 de mesmo nome.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Starsky e Hutch - Justiça em Dobro (1975-1978) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C016-SRS-Starsky.Hutch.1975-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3SqcpDwdhFc1vyEa5nIysybCKpM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cZJhpP6jcUoRj27MUvfpwFNScly.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Starsky e Hutch - Justiça em Dobro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 92 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Eles não são nenhuma dupla de super-heróis que combatem o crime nas ruas de Los Angeles. 
+Para os detetives Dave Starsky e Ken Hutch, trabalhar em dupla significa diminuir os riscos durante o trabalho.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Chosen: Os Escolhidos (2019-2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C003-SRS-The.Chosen-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/w342/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/74CaT8etPTtBPtuMbrqpNBDXBXA.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Chosen: Os Escolhidos
+<name>[COLOR white][B]Star Trek (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D07B-SRS-Star.Trek-ALL</externallink>
+<thumbnail>https://i.ibb.co/V9L3Pdc/ESP-STAR-TREK-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/sjXSpdQ/ESP-STAR-TREK-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Star Trek
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A série presenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, 
-Jesus de uma forma nunca antes vista em filme.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR white][B]Vikings (2013-2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C002-SRS-Vikings.2013-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/u3oInkxcnNV2pZQbkFY3ovHYExR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AaJupnKCty81qRmzEVq2Fx3qEZs.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Vikings
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 79 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro visionário
- e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. 
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -314,18 +325,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Vikings: Valhalla (2022-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C005-SRS-Vikings.Valhalla.2022-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j9diuBBZlPS8VLc7oLlfDsNRD1N.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Vikings: Valhalla
+<name>[COLOR white][B]Star Wars (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04-SEL-Star.Wars-ALL</externallink>
+<thumbnail>https://i.ibb.co/DM8ZRnh/ESP-STAR-WARS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/gy9dGmP/ESP-STAR-WARS-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Star Wars
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022 a 2023
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 16 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários 
-cria seu destino e faz história.
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -334,50 +342,41 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Xógum: A Gloriosa Saga do Japão (2024) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C13-SRS-Xogum.Gloriosa.Saga.Japao.2024-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hJPkcUc4ON7RchgDIkO0k6K10Zu.jpg</fanart>
+<name>[COLOR white][B]Super Gatas (1985-1991) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C29-SRS-Golden.Girls-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fZAp6AfhFfehAwacZXjdFJGDOmj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uLJyqp7twZaqrsrYSQEp2t0amTj.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Xógum: A Gloriosa Saga do Japão
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado encalhado em um vilarejo de pescadores próximo.
-[/COLOR]</info>
+[B]Super Gatas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1991
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 180 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro mulheres anteriormente casadas estão morando juntas em Miami, compartilhando suas 
+diversas experiências juntas e se divertindo apesar dos momentos difíceis.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 <channels>
 <channel>
-<name>[COLOR white][B]Washington (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C009-SRS-Washington.2020-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg</fanart>
+<name>[COLOR white][B]Superman e Lois (2021-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D06B1-SRS-Superman.e.Lois.2021-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbolX2YW0yEMscY4DTpWYafwF05.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sdKDOUAstJv46rUuBtjHV8ILkcN.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Washington
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 03 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Como um sujeito britânico outrora leal se levanta para combater um império em uma 
-campanha de liberdade ou morte para criar uma nova nação.
+[B]Superman e Lois
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 44 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Clark Kent, o Superman, maior herói do mundo, e Lois Lane, uma famosa 
+jornalista, se esforçam para lidar com o estresse cotidiano de serem pais que trabalham na sociedade contemporânea.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -386,16 +385,52 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C18-SRS-SWAT-OLD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/u3DbvKamBWkchckwioak3PvN8j1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/subk3omLR8KaGaRYGMfJcvb8WDN.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]S.W.A.T.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, 
+eles chamam a S.W.A.T.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-
+<channels>
+<channel>
+<name>[COLOR white][B]S.W.A.T. - Força de Intervenção (2017-2022) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C17-SRS-SWAT-2017-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/byFarhK0Wxmf9mSOOR9ZQ31sShJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lZTPH9lwEblSHzHkhxqZD7JYtBq.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]S.W.A.T. - Força de Intervenção
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 114 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de 
+liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A20-SEL-SRS-LETRA-S-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -405,7 +440,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A20-SEL-SRS-LETRA-S-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
