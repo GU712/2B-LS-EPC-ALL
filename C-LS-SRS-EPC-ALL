@@ -352,8 +352,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Xógum: A Gloriosa Saga do Japão (2024) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C13-SRS-Xogum.Gloriosa.Saga.Japao.2024-ALL</externallink>
+<name>[COLOR white][B]Xógum: A Gloriosa Saga do Japão (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C013-SRS-Xogum.Gloriosa.Saga.Japao.2024-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hJPkcUc4ON7RchgDIkO0k6K10Zu.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -362,7 +362,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado encalhado em um vilarejo de pescadores próximo.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no 
+Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado em um vilarejo de pescadores próximo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
